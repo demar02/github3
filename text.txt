@@ -1,4 +1,1 @@
-first line txt main
-line in between in b1
-second line txt main
-line from github
+removing lines from github
